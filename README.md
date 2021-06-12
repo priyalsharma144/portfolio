@@ -1,2 +1,2 @@
 # portfolio
-web development project on portfolio
+web development project. Creating portfolio.
